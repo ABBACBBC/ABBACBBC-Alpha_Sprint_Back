@@ -12,4 +12,4 @@ class ArticleModelAdmin(admin.ModelAdmin):
 
 @admin.register(Category)
 class CategoryModelAdmin(admin.ModelAdmin):
-    list_display = ('name', )
+     list_display = ('name', )
