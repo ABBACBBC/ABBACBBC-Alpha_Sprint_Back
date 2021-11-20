@@ -1,5 +1,5 @@
 """
-ASGI config for article project.
+ASGI config for article  project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
